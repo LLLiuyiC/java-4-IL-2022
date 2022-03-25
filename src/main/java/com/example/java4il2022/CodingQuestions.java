@@ -1,4 +1,4 @@
-package com.example.java4il2022.week3;
+package com.example.java4il2022;
 
 /**
  * 1. two sum
@@ -13,6 +13,14 @@ package com.example.java4il2022.week3;
  * 9. input students information , List<String> name, List<Integer> age
  *    information of students are duplicate if they have same name and age.
  *    return count of duplicate student information
- *10. SQL:  employee table (id, salary)
+ *
+ * Hibernate / JPA
+ * 1. build one to many relation on whiteboard
+ * 2. jpql to select data / join data
+ *
+ *
+ * SQL:  employee table (id, salary)
  *    return kth highest salary
+ *
+ *
  */
