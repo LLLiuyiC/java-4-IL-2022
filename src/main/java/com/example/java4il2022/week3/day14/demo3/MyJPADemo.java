@@ -34,7 +34,7 @@ public class MyJPADemo {
     private EntityManagerFactory entityManagerFactory(DataSource dataSource, Properties hibernateProperties ){
         final LocalContainerEntityManagerFactoryBean em = new LocalContainerEntityManagerFactoryBean();
         em.setDataSource(dataSource);
-        em.setPackagesToScan( "com/example/java20il2021/week4/day15/demo3");
+        em.setPackagesToScan( "--");
         em.setJpaVendorAdapter( new HibernateJpaVendorAdapter() );
         em.setJpaProperties( hibernateProperties );
         em.setPersistenceUnitName( "demo-unit" );
