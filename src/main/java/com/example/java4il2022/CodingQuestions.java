@@ -1,6 +1,7 @@
 package com.example.java4il2022;
 
 /**
+ * (< 5min)
  * 1. two sum
  * 2. verify palindrome
  * 3. verify anagram
@@ -15,12 +16,13 @@ package com.example.java4il2022;
  *    return count of duplicate student information
  *
  * Hibernate / JPA
- * 1. build one to many relation on whiteboard
+ * 1. build one to many relation on whiteboard (< 5min)
  * 2. jpql to select data / join data
  *
  *
  * SQL:  employee table (id, salary)
- *    return kth highest salary
+ *    return kth highest salary (< 1min)
  *
- *
+ * Rest API
+ * 1. impl controller + service + repository + entity for student service on whiteboard (10min - 20min)
  */
