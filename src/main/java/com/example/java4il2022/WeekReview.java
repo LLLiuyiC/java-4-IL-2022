@@ -42,4 +42,33 @@ package com.example.java4il2022;
  *      7. orphan removal
  *      8. annotations for Hibernate / JPA
  *      ..
+ *
+ *
+ *  Week4
+ *  Spring Boot
+ *      1. what is IOC
+ *      2. what is AOP
+ *      3. what is Dependency Injection
+ *      4. how to inject beans / mark beans
+ *      5. annotations to do DI
+ *      6. why spring boot , spring boot vs spring
+ *  Http / Restful API
+ *      1. what is http
+ *      2. http methods
+ *      3. status code
+ *      4. what is restful api
+ *      5. why restful api
+ *      6. how to create restful api
+ *      7. what is good restful api
+ *      8. Spring MVC flow
+ *      9. diff cookie and session
+ *  Security
+ *      1. how to secure your webservice
+ *      2. authentication vs authorization
+ *      3. how does https work
+ *      4. what is JWT token
+ *      5. OAuth2.0 flow
+ *      6. what is SQL injection
+ *      ..
+ *  
  */
